@@ -7,8 +7,6 @@
 //
 
 import UIKit
-import AFNetworking
-import SVPullToRefresh
 
 class PhotosViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     var isMoreDataLoading = false
